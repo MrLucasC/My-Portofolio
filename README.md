@@ -6,7 +6,7 @@ This project is a showcase of the work I've done while learning front-end web de
 ## 🔗 Live Demo
 
 You can view the live version here:  
-[https://mrlucasc.github.io/My-Portfolio/](https://mrlucasc.github.io/My-Portfolio/)
+https://mrlucasc.github.io/My-Portofolio/
 
 ## ✨ Features
 
